@@ -1,0 +1,42 @@
+<samentuetchen>
+    <tuete id="001">
+        <gemueseart>BIO-Peperoni</gemueseart>
+        <saatgutyp>Nachtschattengewächs</saatgutyp>
+        <inhaltsmenge>ca. 30 Pflanzen</inhaltsmenge>
+        <marke>SPERLI</marke>
+        <aussaatzeit>Februar bis April</aussaatzeit>
+        <erntezeit>Juli bis Oktober</erntezeit>
+        <standort>sonnig</standort>
+        <beschreibung>Die langen, roten, vitaminreichen Früchte mit dünner Fruchtwand entwickeln in rohem Zustand einen scharfen, pikanten Geschmack. Sie eignen sich ideal zum Würzen scharfer Gerichte. Paprika lieben einen stets sonnigen, windgeschützten Platz und benötigen durchlässigen, nährstoffreichen Boden. Tipp: Die erste Blüte entfernen, damit die Pflanzen später schneller neue Früchte bilden. Ab Mitte Mai (frostfrei) ins Freiland verpflanzen.</beschreibung>
+    </tuete>
+    <tuete id="002">
+        <gemueseart>Mangold</gemueseart>
+        <saatgutyp>Gänsefußgewächs</saatgutyp>
+        <inhaltsmenge>ca. 50 Pflanzen</inhaltsmenge>
+        <marke>KIEPENKERL</marke>
+        <aussaatzeit>März bis Mai</aussaatzeit>
+        <erntezeit>Juni bis Oktober</erntezeit>
+        <standort>sonnig bis halbschattig</standort>
+        <beschreibung>Dekorative Blattstiele in allen Regenbogenfarben. Angenehmer Geschmack. Ertragreich. Leuchtendrot, orange, rosa, gelb und weiß sind die kräftigen Stiele dieser besonders dekorativen Mangoldzüchtung gefärbt. Abgesehen davon, dass man sie als leckeres, vitaminreiches Gemüse in der Küche und die Blätter wie Spinat verwenden kann, sind die Pflanzen mit ihren großen Blättern sehr attraktiv. In Gartenbeeten, Schalen, als Beeteinfassung oder zwischen Staudenbeeten setzen sie in Gruppen oder Reihen gepflanzt ungewöhnliche Akzente.</beschreibung>
+    </tuete>
+    <tuete id="003">
+        <gemueseart>Buschbohne Elmoro</gemueseart>
+        <saatgutyp>Hülsenfrucht</saatgutyp>
+        <inhaltsmenge>ca. 25 Pflanzen</inhaltsmenge>
+        <marke>samenmaier</marke>
+        <aussaatzeit>Mai bis Juli</aussaatzeit>
+        <erntezeit>Juli bis September</erntezeit>
+        <standort>sonnig</standort>
+        <beschreibung>Buschbohnen verfügen über einen ausgezeichneten Geschmack. Anhäufeln verbessert die Standfestigkeit. Laufende Ernte steigert den Ertrag. Filetbohnen jung pflücken; in diesem frühen Stadium sind sie besonders zart. Für den Rohgenuss nicht geeignet!</beschreibung>
+    </tuete>
+    <tuete id="004">
+        <gemueseart>Radies Riesenbutter</gemueseart>
+        <saatgutyp>Kreuzblütler</saatgutyp>
+        <inhaltsmenge>ca. 5 lfd. Meter</inhaltsmenge>
+        <marke>Quedlinburger Saatgut</marke>
+        <aussaatzeit>März bis Juli</aussaatzeit>
+        <erntezeit>Mai bis September</erntezeit>
+        <standort>sonnig</standort>
+        <beschreibung>Bekannte, mittelfrühe Sorte mit sehr großen, runden, hellroten Knollen und kräftigem Laub. Erreichen bis zu 8 cm Durchmesser, bleiben trotzdem zart und werden kaum pelzig. Mildwürziger Geschmack. Zum Frischverzehr, zur Salatherstellung und Dekoration.</beschreibung>
+    </tuete>
+</samentuetchen>

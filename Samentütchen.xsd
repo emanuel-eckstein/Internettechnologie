@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New XSD document created with EditiX XML Editor (http://www.editix.com) at Wed Apr 10 17:23:18 CEST 2024 -->
+
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="samentuetchen">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="tuete" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="gemueseart"/>
+              <xs:element type="xs:string" name="saatgutyp"/>
+              <xs:element type="xs:string" name="inhaltsmenge"/>
+              <xs:element type="xs:string" name="marke"/>
+              <xs:element type="xs:string" name="aussaatzeit"/>
+              <xs:element type="xs:string" name="erntezeit"/>
+              <xs:element type="xs:string" name="standort"/>
+              <xs:element type="xs:string" name="beschreibung"/>
+            </xs:sequence>
+            <xs:attribute type="xs:byte" name="id" use="optional"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
