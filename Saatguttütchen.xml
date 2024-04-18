@@ -1,7 +1,7 @@
 <saatguttuetchen>
     <tuete id="001">
         <gemueseart>BIO-Peperoni</gemueseart>
-        <saatgutyp>Nachtschattengewächs</saatgutyp>
+        <familie>Nachtschattengewächs</familie>
         <inhaltsmenge>ca. 30 Pflanzen</inhaltsmenge>
         <marke>SPERLI</marke>
         <aussaatzeit>Februar bis April</aussaatzeit>
@@ -12,7 +12,7 @@
     </tuete>
     <tuete id="002">
         <gemueseart>Mangold</gemueseart>
-        <saatgutyp>Gänsefußgewächs</saatgutyp>
+        <familie>Gänsefußgewächs</familie>
         <inhaltsmenge>ca. 50 Pflanzen</inhaltsmenge>
         <marke>KIEPENKERL</marke>
         <aussaatzeit>März bis Mai</aussaatzeit>
@@ -23,7 +23,7 @@
     </tuete>
     <tuete id="003">
         <gemueseart>Buschbohne Elmoro</gemueseart>
-        <saatgutyp>Hülsenfrucht</saatgutyp>
+        <familie>Hülsenfrucht</familie>
         <inhaltsmenge>ca. 25 Pflanzen</inhaltsmenge>
         <marke>samenmaier</marke>
         <aussaatzeit>Mai bis Juli</aussaatzeit>
@@ -34,7 +34,51 @@
     </tuete>
     <tuete id="004">
         <gemueseart>Radies Riesenbutter</gemueseart>
-        <saatgutyp>Kreuzblütler</saatgutyp>
+        <familie>Kreuzblütler</familie>
+        <inhaltsmenge>ca. 5 lfd. Meter</inhaltsmenge>
+        <marke>Quedlinburger Saatgut</marke>
+        <aussaatzeit>März bis Juli</aussaatzeit>
+        <erntezeit>Mai bis September</erntezeit>
+        <standort>sonnig</standort>
+        <beschreibung>Bekannte, mittelfrühe Sorte mit sehr großen, runden, hellroten Knollen und kräftigem Laub. Erreichen bis zu 8 cm Durchmesser, bleiben trotzdem zart und werden kaum pelzig. Mildwürziger Geschmack. Zum Frischverzehr, zur Salatherstellung und Dekoration.</beschreibung>
+	<kosten>1.79</kosten>
+    </tuete>
+    <tuete id="005">
+        <gemueseart>Möhren Rotin</gemueseart>
+        <familie>Doldenblüter</familie>
+        <inhaltsmenge>ca. 210 Korn</inhaltsmenge>
+        <marke>Gardenline</marke>
+        <aussaatzeit>März bis Juni</aussaatzeit>
+        <erntezeit>Juni bis August</erntezeit>
+        <standort>sonnig</standort>
+        <beschreibung>BDiese Möhre ist eine besonders wohlschmeckende Spezialzüchtung! Sie bietetekannte, mittelfrühe Sorte mit sehr großen, runden, hellroten Knollen und kräftigem Laub. Erreichen bis zu 8 cm Durchmesser, bleiben trotzdem zart und werden kaum pelzig. Mildwürziger Geschmack. Zum Frischverzehr, zur Salatherstellung und Dekoration.</beschreibung>
+	<kosten>1.79</kosten>
+    </tuete>
+    <tuete id="000">
+        <gemueseart>Pastinaken</gemueseart>
+        <familie>Doldenblütler</familie>
+        <inhaltsmenge>ca. 30 Korn</inhaltsmenge>
+        <marke>Thompson & Morgan</marke>
+        <aussaatzeit>April bis Juli</aussaatzeit>
+        <erntezeit>August bis November</erntezeit>
+        <standort>sonnig</standort>
+        <beschreibung>Die schlanken, bajonettenförmigen Wurzeln sind ohne jegliche Körrner, zart und süß im Geschmack. Wenn oft und in regelmäßigen Abständen gesät wird, können im Sommer und Herbst frische Wurzeln geerntet werden. Ideal zu Kultivierung in Töpfe mit einer Mindesttiefe von 37cm oder direkt im Freiland.</beschreibung>
+	<kosten>1.79</kosten>
+    </tuete>
+    <tuete id="004">
+        <gemueseart>Radies Riesenbutter</gemueseart>
+        <familie>Kreuzblütler</familie>
+        <inhaltsmenge>ca. 5 lfd. Meter</inhaltsmenge>
+        <marke>Quedlinburger Saatgut</marke>
+        <aussaatzeit>März bis Juli</aussaatzeit>
+        <erntezeit>Mai bis September</erntezeit>
+        <standort>sonnig</standort>
+        <beschreibung>Bekannte, mittelfrühe Sorte mit sehr großen, runden, hellroten Knollen und kräftigem Laub. Erreichen bis zu 8 cm Durchmesser, bleiben trotzdem zart und werden kaum pelzig. Mildwürziger Geschmack. Zum Frischverzehr, zur Salatherstellung und Dekoration.</beschreibung>
+	<kosten>1.79</kosten>
+    </tuete>
+    <tuete id="004">
+        <gemueseart>Radies Riesenbutter</gemueseart>
+        <familie>Kreuzblütler</familie>
         <inhaltsmenge>ca. 5 lfd. Meter</inhaltsmenge>
         <marke>Quedlinburger Saatgut</marke>
         <aussaatzeit>März bis Juli</aussaatzeit>
