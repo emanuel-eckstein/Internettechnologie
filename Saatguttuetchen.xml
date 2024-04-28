@@ -45,47 +45,47 @@
 	    <kosten>1.19</kosten>
     </tuete>
     <tuete id="005">
+        <gemueseart>Pastinaken</gemueseart>
+        <familie>Doldenblütler</familie>
+        <inhaltsmenge>ca. 30 Pflanzen</inhaltsmenge>
+        <marke>Thompson und Morgan</marke>
+        <aussaatzeit>April bis Juli</aussaatzeit>
+        <erntezeit>August bis November</erntezeit>
+        <standort>sonnig</standort>
+        <beschreibung>Die schlanken, bajonettenförmigen Wurzeln sind ohne jegliche Körner, zart und süß im Geschmack. Wenn oft und in regelmäßigen Abständen gesät wird, können im Sommer und Herbst frische Wurzeln geerntet werden. Ideal zu Kultivierung in Töpfe mit einer Mindesttiefe von 37cm oder direkt im Freiland.</beschreibung>
+	    <kosten>0.99</kosten>
+    </tuete>
+    <tuete id="006">
         <gemueseart>Möhren Rotin</gemueseart>
         <familie>Doldenblüter</familie>
-        <inhaltsmenge>ca. 210 Korn</inhaltsmenge>
+        <inhaltsmenge>ca. 210 Pflanzen</inhaltsmenge>
         <marke>Gardenline</marke>
         <aussaatzeit>März bis Juni</aussaatzeit>
         <erntezeit>Juni bis August</erntezeit>
         <standort>sonnig</standort>
         <beschreibung>Diese Möhre ist eine besonders wohlschmeckende Spezialzüchtung! Sie bietetekannte, mittelfrühe Sorte mit sehr großen, runden, hellroten Knollen und kräftigem Laub. Erreichen bis zu 8 cm Durchmesser, bleiben trotzdem zart und werden kaum pelzig. Mildwürziger Geschmack. Zum Frischverzehr, zur Salatherstellung und Dekoration.</beschreibung>
-	    <kosten>1.79</kosten>
-    </tuete>
-    <tuete id="006">
-        <gemueseart>Pastinaken</gemueseart>
-        <familie>Doldenblütler</familie>
-        <inhaltsmenge>ca. 30 Korn</inhaltsmenge>
-        <marke>Thompson &amp; Morgan</marke>
-        <aussaatzeit>April bis Juli</aussaatzeit>
-        <erntezeit>August bis November</erntezeit>
-        <standort>sonnig</standort>
-        <beschreibung>Die schlanken, bajonettenförmigen Wurzeln sind ohne jegliche Körner, zart und süß im Geschmack. Wenn oft und in regelmäßigen Abständen gesät wird, können im Sommer und Herbst frische Wurzeln geerntet werden. Ideal zu Kultivierung in Töpfe mit einer Mindesttiefe von 37cm oder direkt im Freiland.</beschreibung>
-	    <kosten>1.79</kosten>
+	    <kosten>0.79</kosten>
     </tuete>
     <tuete id="007">
-        <gemueseart>Radies Riesenbutter</gemueseart>
-        <familie>Kreuzblütler</familie>
-        <inhaltsmenge>ca. 5 lfd. Meter</inhaltsmenge>
-        <marke>Quedlinburger Saatgut</marke>
-        <aussaatzeit>März bis Juli</aussaatzeit>
-        <erntezeit>Mai bis September</erntezeit>
+        <gemueseart>Spitz-Paprika Sakura</gemueseart>
+        <familie>Nachtschattengewächs</familie>
+        <inhaltsmenge>ca. 15 Pflanzen</inhaltsmenge>
+        <marke>Sperli</marke>
+        <aussaatzeit>Februar bis April</aussaatzeit>
+        <erntezeit>Juli bis Oktober</erntezeit>
         <standort>sonnig</standort>
-        <beschreibung>Bekannte, mittelfrühe Sorte mit sehr großen, runden, hellroten Knollen und kräftigem Laub. Erreichen bis zu 8 cm Durchmesser, bleiben trotzdem zart und werden kaum pelzig. Mildwürziger Geschmack. Zum Frischverzehr, zur Salatherstellung und Dekoration.</beschreibung>
-	    <kosten>1.19</kosten>
+        <beschreibung>Spitzpaprika mit ca. 12 cm langen, 80 g schweren, von hellgrün nach rot abreifenden Früchten. Eigenen sich sehr gut für den Frischverzehr. Sakura ist eine frühe robuste und ertragreiche Sorte die sehr gut für den Freilandanbau oder für große Kübel geeignet ist. Lieben einen sonnigen, windgeschützten Platz auf humosen, durchlässigen Boden. Damit sich die Pflanze besser verzweigt und ertragreicher wird, die erste Knospe ausbrechen. Ab Mitte Mai (frostfrei) ins Freiland verpflanzen.</beschreibung>
+	    <kosten>3.49</kosten>
     </tuete>
     <tuete id="008">
-        <gemueseart>Radies Riesenbutter</gemueseart>
-        <familie>Kreuzblütler</familie>
-        <inhaltsmenge>ca. 5 lfd. Meter</inhaltsmenge>
-        <marke>Quedlinburger Saatgut</marke>
-        <aussaatzeit>März bis Juli</aussaatzeit>
-        <erntezeit>Mai bis September</erntezeit>
+        <gemueseart>Andenbeere</gemueseart>
+        <familie>Nachtschattengewächs</familie>
+        <inhaltsmenge>ca. 60 Pflanzen</inhaltsmenge>
+        <marke>Sperli</marke>
+        <aussaatzeit>Februar bis April</aussaatzeit>
+        <erntezeit>August bis Oktober</erntezeit>
         <standort>sonnig</standort>
-        <beschreibung>Bekannte, mittelfrühe Sorte mit sehr großen, runden, hellroten Knollen und kräftigem Laub. Erreichen bis zu 8 cm Durchmesser, bleiben trotzdem zart und werden kaum pelzig. Mildwürziger Geschmack. Zum Frischverzehr, zur Salatherstellung und Dekoration.</beschreibung>
-	    <kosten>1.79</kosten>
+        <beschreibung>Diese starkwüchsige Pflanze bildet zahlreiche, kirschgroße Früchte, die im Reifezustand aus der braunen Umhüllung entfernt werden. Sie gleichen in den Kultursprüchen der Tomate. Sie wächst mit vielen Trieben und nimmt viel Platz ein. Bei zu starkem Wuchs können einige Triebe entfernt werden. Benötigt nährstoffreichen, humosen Boden. Die Pflanzen nur leicht düngen, aber reichlich wässern. Ab Mitte Mai ins Freiland pflanzen.</beschreibung>
+	    <kosten>2.39</kosten>
     </tuete>
 </saatguttuetchen>
