@@ -68,6 +68,7 @@
                   <xsl:when test="standort='halbschattig'"> &#9728;</xsl:when> 
                   <xsl:when test="standort='schattig'"> &#9729;</xsl:when>
                   <xsl:when test="standort='sonnig bis halbschattig'"> &#9788; &#9728;</xsl:when>
+                  <xsl:when test="standort='halbschattig bis schattig'"> &#9728; &#9729;</xsl:when>
                   <xsl:otherwise></xsl:otherwise>
                 </xsl:choose>
               </td>
