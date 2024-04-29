@@ -1,0 +1,92 @@
+<?xml-stylesheet type="text/xsl" href="Saatguttuetchen.xsl"?>
+<?xml-stylesheet type="text/xsl" href="Saatguttuetchen.xsl"?><?xml-stylesheet type="text/xsl" href="myXSLT.xsl"?><?xml-stylesheet type="text/xsl" href="Saatguttuetchen-FO.xsl"?><?xml-stylesheet type="text/xsl" href="Saatguttuetchen.xsl"?>
+<saatguttuetchen>
+    <tuete id="001">
+        <gemueseart>BIO-Peperoni</gemueseart>
+        <familie>Nachtschattengewächs</familie>
+        <inhaltsmenge>ca. 30 Pflanzen</inhaltsmenge>
+        <marke>Sperli</marke>
+        <aussaatzeit>Februar bis April</aussaatzeit>
+        <erntezeit>Juli bis Oktober</erntezeit>
+        <standort>sonnig</standort>
+        <beschreibung>Die langen, roten, vitaminreichen Früchte mit dünner Fruchtwand entwickeln in rohem Zustand einen scharfen, pikanten Geschmack. Sie eignen sich ideal zum Würzen scharfer Gerichte. Paprika lieben einen stets sonnigen, windgeschützten Platz und benötigen durchlässigen, nährstoffreichen Boden. Tipp: Die erste Blüte entfernen, damit die Pflanzen später schneller neue Früchte bilden. Ab Mitte Mai (frostfrei) ins Freiland verpflanzen.</beschreibung>
+    	<kosten>3.99</kosten>
+    </tuete>
+    <tuete id="002">
+        <gemueseart>Mangold</gemueseart>
+        <familie>Fuchsschwanzgewächs</familie>
+        <inhaltsmenge>ca. 50 Pflanzen</inhaltsmenge>
+        <marke>Kiepenkerl</marke>
+        <aussaatzeit>März bis Mai</aussaatzeit>
+        <erntezeit>Juni bis Oktober</erntezeit>
+        <standort>sonnig bis halbschattig</standort>
+        <beschreibung>Dekorative Blattstiele in allen Regenbogenfarben. Angenehmer Geschmack. Ertragreich. Leuchtendrot, orange, rosa, gelb und weiß sind die kräftigen Stiele dieser besonders dekorativen Mangoldzüchtung gefärbt. Abgesehen davon, dass man sie als leckeres, vitaminreiches Gemüse in der Küche und die Blätter wie Spinat verwenden kann, sind die Pflanzen mit ihren großen Blättern sehr attraktiv. In Gartenbeeten, Schalen, als Beeteinfassung oder zwischen Staudenbeeten setzen sie in Gruppen oder Reihen gepflanzt ungewöhnliche Akzente.</beschreibung>
+	    <kosten>2.99</kosten>
+    </tuete>
+    <tuete id="003">
+        <gemueseart>Buschbohne Elmoro</gemueseart>
+        <familie>Hülsenfrucht</familie>
+        <inhaltsmenge>ca. 25 Pflanzen</inhaltsmenge>
+        <marke>Samen Maier</marke>
+        <aussaatzeit>Mai bis Juli</aussaatzeit>
+        <erntezeit>Juli bis September</erntezeit>
+        <standort>sonnig</standort>
+        <beschreibung>Buschbohnen verfügen über einen ausgezeichneten Geschmack. Anhäufeln verbessert die Standfestigkeit. Laufende Ernte steigert den Ertrag. Filetbohnen jung pflücken; in diesem frühen Stadium sind sie besonders zart. Für den Rohgenuss nicht geeignet!</beschreibung>
+	    <kosten>2.99</kosten>
+    </tuete>
+    <tuete id="004">
+        <gemueseart>Radies Riesenbutter</gemueseart>
+        <familie>Kreuzblütler</familie>
+        <inhaltsmenge>ca. 5 lfd. Meter</inhaltsmenge>
+        <marke>Quedlinburger Saatgut</marke>
+        <aussaatzeit>März bis Juli</aussaatzeit>
+        <erntezeit>Mai bis September</erntezeit>
+        <standort>sonnig</standort>
+        <beschreibung>Bekannte, mittelfrühe Sorte mit sehr großen, runden, hellroten Knollen und kräftigem Laub. Erreichen bis zu 8 cm Durchmesser, bleiben trotzdem zart und werden kaum pelzig. Mildwürziger Geschmack. Zum Frischverzehr, zur Salatherstellung und Dekoration.</beschreibung>
+	    <kosten>1.19</kosten>
+    </tuete>
+    <tuete id="005">
+        <gemueseart>Pastinaken</gemueseart>
+        <familie>Doldenblütler</familie>
+        <inhaltsmenge>ca. 30 Pflanzen</inhaltsmenge>
+        <marke>Thompson und Morgan</marke>
+        <aussaatzeit>April bis Juli</aussaatzeit>
+        <erntezeit>August bis November</erntezeit>
+        <standort>sonnig</standort>
+        <beschreibung>Die schlanken, bajonettenförmigen Wurzeln sind ohne jegliche Körner, zart und süß im Geschmack. Wenn oft und in regelmäßigen Abständen gesät wird, können im Sommer und Herbst frische Wurzeln geerntet werden. Ideal zu Kultivierung in Töpfe mit einer Mindesttiefe von 37cm oder direkt im Freiland.</beschreibung>
+	    <kosten>0.99</kosten>
+    </tuete>
+    <tuete id="006">
+        <gemueseart>Möhren Rotin</gemueseart>
+        <familie>Doldenblüter</familie>
+        <inhaltsmenge>ca. 210 Pflanzen</inhaltsmenge>
+        <marke>Gardenline</marke>
+        <aussaatzeit>März bis Juni</aussaatzeit>
+        <erntezeit>Juni bis August</erntezeit>
+        <standort>sonnig</standort>
+        <beschreibung>Diese Möhre ist eine besonders wohlschmeckende Spezialzüchtung! Sie bietetekannte, mittelfrühe Sorte mit sehr großen, runden, hellroten Knollen und kräftigem Laub. Erreichen bis zu 8 cm Durchmesser, bleiben trotzdem zart und werden kaum pelzig. Mildwürziger Geschmack. Zum Frischverzehr, zur Salatherstellung und Dekoration.</beschreibung>
+	    <kosten>0.79</kosten>
+    </tuete>
+    <tuete id="007">
+        <gemueseart>Spitz-Paprika Sakura</gemueseart>
+        <familie>Nachtschattengewächs</familie>
+        <inhaltsmenge>ca. 15 Pflanzen</inhaltsmenge>
+        <marke>Sperli</marke>
+        <aussaatzeit>Februar bis April</aussaatzeit>
+        <erntezeit>Juli bis Oktober</erntezeit>
+        <standort>sonnig</standort>
+        <beschreibung>Spitzpaprika mit ca. 12 cm langen, 80 g schweren, von hellgrün nach rot abreifenden Früchten. Eigenen sich sehr gut für den Frischverzehr. Sakura ist eine frühe robuste und ertragreiche Sorte die sehr gut für den Freilandanbau oder für große Kübel geeignet ist. Lieben einen sonnigen, windgeschützten Platz auf humosen, durchlässigen Boden. Damit sich die Pflanze besser verzweigt und ertragreicher wird, die erste Knospe ausbrechen. Ab Mitte Mai (frostfrei) ins Freiland verpflanzen.</beschreibung>
+	    <kosten>3.49</kosten>
+    </tuete>
+    <tuete id="008">
+        <gemueseart>Andenbeere</gemueseart>
+        <familie>Nachtschattengewächs</familie>
+        <inhaltsmenge>ca. 60 Pflanzen</inhaltsmenge>
+        <marke>Sperli</marke>
+        <aussaatzeit>Februar bis April</aussaatzeit>
+        <erntezeit>August bis Oktober</erntezeit>
+        <standort>sonnig</standort>
+        <beschreibung>Diese starkwüchsige Pflanze bildet zahlreiche, kirschgroße Früchte, die im Reifezustand aus der braunen Umhüllung entfernt werden. Sie gleichen in den Kultursprüchen der Tomate. Sie wächst mit vielen Trieben und nimmt viel Platz ein. Bei zu starkem Wuchs können einige Triebe entfernt werden. Benötigt nährstoffreichen, humosen Boden. Die Pflanzen nur leicht düngen, aber reichlich wässern. Ab Mitte Mai ins Freiland pflanzen.</beschreibung>
+	    <kosten>2.39</kosten>
+    </tuete>
+</saatguttuetchen>
