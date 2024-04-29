@@ -87,11 +87,6 @@
                                     </fo:table-cell>
                                 </fo:table-row>
                                 <!-- Optionale Beschreibung -->
-                                <fo:table-row>
-                                    <fo:table-cell number-columns-spanned="8">
-                                        <fo:block font-style="italic"><xsl:value-of select="beschreibung"/></fo:block>
-                                    </fo:table-cell>
-                                </fo:table-row>
                             </xsl:for-each>
                         </fo:table-body>
                     </fo:table>
