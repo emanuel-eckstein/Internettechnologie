@@ -15,7 +15,7 @@
               <xs:element type="xs:string" name="erntezeit"/>
               <xs:element type="xs:string" name="standort"/>
               <xs:element type="xs:string" name="beschreibung"/>
-              <xs:element type="xs:float" name="kosten"/>
+              <xs:element type="xs:decimal" name="kosten"/>
             </xs:sequence>
             <xs:attribute type="xs:byte" name="id" use="optional"/>
           </xs:complexType>
