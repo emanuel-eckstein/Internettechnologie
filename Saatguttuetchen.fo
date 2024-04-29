@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
+   <fo:layout-master-set>
+      <fo:simple-page-master master-name="simpleA4" page-height="29.7cm" page-width="21cm" margin="2cm">
+         <fo:region-body margin-top="3cm" margin-bottom="2cm"/>
+      </fo:simple-page-master>
+   </fo:layout-master-set>
+   <fo:page-sequence master-reference="simpleA4">
+      <fo:static-content flow-name="xsl-region-before">
+         <fo:block font-size="24pt" font-weight="bold" text-align="center" text-decoration="underline">
+                        SAATGUTTÜTCHEN
+                    </fo:block>
+      </fo:static-content>
+      <fo:flow flow-name="xsl-region-body">
+         <fo:block font-weight="bold" space-after="5mm">
+                            Gemüseart: BIO-Peperoni</fo:block>
+         <fo:block>
+                            Familie: Nachtschattengewächs</fo:block>
+         <fo:block>
+                            Inhaltsmenge: ca. 30 Pflanzen</fo:block>
+         <fo:block>
+                            Marke: Sperli</fo:block>
+         <fo:block>
+                            Aussaatzeit: Februar bis April</fo:block>
+         <fo:block>
+                            Erntezeit: Juli bis Oktober</fo:block>
+         <fo:block>
+                            Standort: sonnig</fo:block>
+         <fo:block>
+                            Kosten: 3.99 €
+                        </fo:block>
+         <fo:block space-after="5mm">
+                            Beschreibung: Die langen, roten, vitaminreichen Früchte mit dünner Fruchtwand entwickeln in rohem Zustand einen scharfen, pikanten Geschmack. Sie eignen sich ideal zum Würzen scharfer Gerichte. Paprika lieben einen stets sonnigen, windgeschützten Platz und benötigen durchlässigen, nährstoffreichen Boden. Tipp: Die erste Blüte entfernen, damit die Pflanzen später schneller neue Früchte bilden. Ab Mitte Mai (frostfrei) ins Freiland verpflanzen.</fo:block>
+         <fo:block border-top="1pt solid black" space-before="5mm"/>
+         <fo:block font-weight="bold" space-after="5mm">
+                            Gemüseart: Mangold</fo:block>
+         <fo:block>
+                            Familie: Fuchsschwanzgewächs</fo:block>
+         <fo:block>
+                            Inhaltsmenge: ca. 50 Pflanzen</fo:block>
+         <fo:block>
+                            Marke: Kiepenkerl</fo:block>
+         <fo:block>
+                            Aussaatzeit: März bis Mai</fo:block>
+         <fo:block>
+                            Erntezeit: Juni bis Oktober</fo:block>
+         <fo:block>
+                            Standort: sonnig bis halbschattig</fo:block>
+         <fo:block>
+                            Kosten: 2.99 €
+                        </fo:block>
+         <fo:block space-after="5mm">
+                            Beschreibung: Dekorative Blattstiele in allen Regenbogenfarben. Angenehmer Geschmack. Ertragreich. Leuchtendrot, orange, rosa, gelb und weiß sind die kräftigen Stiele dieser besonders dekorativen Mangoldzüchtung gefärbt. Abgesehen davon, dass man sie als leckeres, vitaminreiches Gemüse in der Küche und die Blätter wie Spinat verwenden kann, sind die Pflanzen mit ihren großen Blättern sehr attraktiv. In Gartenbeeten, Schalen, als Beeteinfassung oder zwischen Staudenbeeten setzen sie in Gruppen oder Reihen gepflanzt ungewöhnliche Akzente.</fo:block>
+         <fo:block border-top="1pt solid black" space-before="5mm"/>
+         <fo:block font-weight="bold" space-after="5mm">
+                            Gemüseart: Buschbohne Elmoro</fo:block>
+         <fo:block>
+                            Familie: Hülsenfrucht</fo:block>
+         <fo:block>
+                            Inhaltsmenge: ca. 25 Pflanzen</fo:block>
+         <fo:block>
+                            Marke: Samen Maier</fo:block>
+         <fo:block>
+                            Aussaatzeit: Mai bis Juli</fo:block>
+         <fo:block>
+                            Erntezeit: Juli bis September</fo:block>
+         <fo:block>
+                            Standort: sonnig</fo:block>
+         <fo:block>
+                            Kosten: 2.99 €
+                        </fo:block>
+         <fo:block space-after="5mm">
+                            Beschreibung: Buschbohnen verfügen über einen ausgezeichneten Geschmack. Anhäufeln verbessert die Standfestigkeit. Laufende Ernte steigert den Ertrag. Filetbohnen jung pflücken; in diesem frühen Stadium sind sie besonders zart. Für den Rohgenuss nicht geeignet!</fo:block>
+         <fo:block border-top="1pt solid black" space-before="5mm"/>
+         <fo:block font-weight="bold" space-after="5mm">
+                            Gemüseart: Radies Riesenbutter</fo:block>
+         <fo:block>
+                            Familie: Kreuzblütler</fo:block>
+         <fo:block>
+                            Inhaltsmenge: ca. 5 lfd. Meter</fo:block>
+         <fo:block>
+                            Marke: Quedlinburger Saatgut</fo:block>
+         <fo:block>
+                            Aussaatzeit: März bis Juli</fo:block>
+         <fo:block>
+                            Erntezeit: Mai bis September</fo:block>
+         <fo:block>
+                            Standort: sonnig</fo:block>
+         <fo:block>
+                            Kosten: 1.19 €
+                        </fo:block>
+         <fo:block space-after="5mm">
+                            Beschreibung: Bekannte, mittelfrühe Sorte mit sehr großen, runden, hellroten Knollen und kräftigem Laub. Erreichen bis zu 8 cm Durchmesser, bleiben trotzdem zart und werden kaum pelzig. Mildwürziger Geschmack. Zum Frischverzehr, zur Salatherstellung und Dekoration.</fo:block>
+         <fo:block border-top="1pt solid black" space-before="5mm"/>
+         <fo:block font-weight="bold" space-after="5mm">
+                            Gemüseart: Pastinaken</fo:block>
+         <fo:block>
+                            Familie: Doldenblütler</fo:block>
+         <fo:block>
+                            Inhaltsmenge: ca. 30 Pflanzen</fo:block>
+         <fo:block>
+                            Marke: Thompson und Morgan</fo:block>
+         <fo:block>
+                            Aussaatzeit: April bis Juli</fo:block>
+         <fo:block>
+                            Erntezeit: August bis November</fo:block>
+         <fo:block>
+                            Standort: sonnig</fo:block>
+         <fo:block>
+                            Kosten: 0.99 €
+                        </fo:block>
+         <fo:block space-after="5mm">
+                            Beschreibung: Die schlanken, bajonettenförmigen Wurzeln sind ohne jegliche Körner, zart und süß im Geschmack. Wenn oft und in regelmäßigen Abständen gesät wird, können im Sommer und Herbst frische Wurzeln geerntet werden. Ideal zu Kultivierung in Töpfe mit einer Mindesttiefe von 37cm oder direkt im Freiland.</fo:block>
+         <fo:block border-top="1pt solid black" space-before="5mm"/>
+         <fo:block font-weight="bold" space-after="5mm">
+                            Gemüseart: Möhren Rotin</fo:block>
+         <fo:block>
+                            Familie: Doldenblüter</fo:block>
+         <fo:block>
+                            Inhaltsmenge: ca. 210 Pflanzen</fo:block>
+         <fo:block>
+                            Marke: Gardenline</fo:block>
+         <fo:block>
+                            Aussaatzeit: März bis Juni</fo:block>
+         <fo:block>
+                            Erntezeit: Juni bis August</fo:block>
+         <fo:block>
+                            Standort: sonnig</fo:block>
+         <fo:block>
+                            Kosten: 0.79 €
+                        </fo:block>
+         <fo:block space-after="5mm">
+                            Beschreibung: Diese Möhre ist eine besonders wohlschmeckende Spezialzüchtung! Sie bietetekannte, mittelfrühe Sorte mit sehr großen, runden, hellroten Knollen und kräftigem Laub. Erreichen bis zu 8 cm Durchmesser, bleiben trotzdem zart und werden kaum pelzig. Mildwürziger Geschmack. Zum Frischverzehr, zur Salatherstellung und Dekoration.</fo:block>
+         <fo:block border-top="1pt solid black" space-before="5mm"/>
+         <fo:block font-weight="bold" space-after="5mm">
+                            Gemüseart: Spitz-Paprika Sakura</fo:block>
+         <fo:block>
+                            Familie: Nachtschattengewächs</fo:block>
+         <fo:block>
+                            Inhaltsmenge: ca. 15 Pflanzen</fo:block>
+         <fo:block>
+                            Marke: Sperli</fo:block>
+         <fo:block>
+                            Aussaatzeit: Februar bis April</fo:block>
+         <fo:block>
+                            Erntezeit: Juli bis Oktober</fo:block>
+         <fo:block>
+                            Standort: sonnig</fo:block>
+         <fo:block>
+                            Kosten: 3.49 €
+                        </fo:block>
+         <fo:block space-after="5mm">
+                            Beschreibung: Spitzpaprika mit ca. 12 cm langen, 80 g schweren, von hellgrün nach rot abreifenden Früchten. Eigenen sich sehr gut für den Frischverzehr. Sakura ist eine frühe robuste und ertragreiche Sorte die sehr gut für den Freilandanbau oder für große Kübel geeignet ist. Lieben einen sonnigen, windgeschützten Platz auf humosen, durchlässigen Boden. Damit sich die Pflanze besser verzweigt und ertragreicher wird, die erste Knospe ausbrechen. Ab Mitte Mai (frostfrei) ins Freiland verpflanzen.</fo:block>
+         <fo:block border-top="1pt solid black" space-before="5mm"/>
+         <fo:block font-weight="bold" space-after="5mm">
+                            Gemüseart: Andenbeere</fo:block>
+         <fo:block>
+                            Familie: Nachtschattengewächs</fo:block>
+         <fo:block>
+                            Inhaltsmenge: ca. 60 Pflanzen</fo:block>
+         <fo:block>
+                            Marke: Sperli</fo:block>
+         <fo:block>
+                            Aussaatzeit: Februar bis April</fo:block>
+         <fo:block>
+                            Erntezeit: August bis Oktober</fo:block>
+         <fo:block>
+                            Standort: sonnig</fo:block>
+         <fo:block>
+                            Kosten: 2.39 €
+                        </fo:block>
+         <fo:block space-after="5mm">
+                            Beschreibung: Diese starkwüchsige Pflanze bildet zahlreiche, kirschgroße Früchte, die im Reifezustand aus der braunen Umhüllung entfernt werden. Sie gleichen in den Kultursprüchen der Tomate. Sie wächst mit vielen Trieben und nimmt viel Platz ein. Bei zu starkem Wuchs können einige Triebe entfernt werden. Benötigt nährstoffreichen, humosen Boden. Die Pflanzen nur leicht düngen, aber reichlich wässern. Ab Mitte Mai ins Freiland pflanzen.</fo:block>
+         <fo:block border-top="1pt solid black" space-before="5mm"/>
+      </fo:flow>
+   </fo:page-sequence>
+</fo:root>
